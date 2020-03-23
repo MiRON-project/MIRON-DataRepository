@@ -1,0 +1,9 @@
+[submodule "MOOD2Be"]
+	path = MOOD2Be
+	url = git@github.com:MiRON-project/MOOD2Be.git
+[submodule "mrpt"]
+	path = mrpt
+	url = git@github.com:MiRON-project/mrpt.git
+[submodule "webots"]
+	path = webots
+	url = git@github.com:MiRON-project/webots.git
