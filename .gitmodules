@@ -7,3 +7,6 @@
 [submodule "webots"]
 	path = webots
 	url = git@github.com:MiRON-project/webots.git
+[submodule "Groot"]
+	path = Groot
+	url = git@github.com:MiRON-project/Groot.git
