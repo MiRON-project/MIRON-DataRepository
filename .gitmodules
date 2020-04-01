@@ -10,3 +10,6 @@
 [submodule "Groot"]
 	path = Groot
 	url = git@github.com:MiRON-project/Groot.git
+[submodule "bundles"]
+	path = bundles
+	url = git@github.com:MiRON-project/bundles.git
