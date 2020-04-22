@@ -13,3 +13,6 @@
 [submodule "bundles"]
 	path = bundles
 	url = git@github.com:MiRON-project/bundles.git
+[submodule "ZMQServer"]
+	path = ZMQServer
+	url = git@github.com:MiRON-project/ZMQServer.git
